@@ -16,8 +16,8 @@
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="site-info">
 				<div class="site-description">
-					<p><span class="teal"><?php bloginfo('title'); ?></span><?php bloginfo('description'); ?></p>
-					<p>&copy; <?php bloginfo('title'); ?>, LLC
+					<?php bloginfo('description'); ?>
+					<p>&copy; <?php bloginfo('title'); ?>, LLC</p>
 				</div>
 				
 			<nav class="social-media-navigation" role="navigation">
